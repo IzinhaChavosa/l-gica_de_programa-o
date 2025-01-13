@@ -1,0 +1,14 @@
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\bin\Debug\net8.0\ex01.exe
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\bin\Debug\net8.0\ex01.dll
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\bin\Debug\net8.0\ex01.pdb
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.dll
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.pdb
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\Users\izabella.ssantos5\source\repos\logica_programacao\ex01\obj\Debug\net8.0\ref\ex01.dll
